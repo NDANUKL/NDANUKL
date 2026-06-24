@@ -62,9 +62,13 @@ i'm a fourth-year BSc Informatics & Computer Science student at **Strathmore Uni
 ### 📊 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NDANUKL&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=c06fab&icon_color=e991c4&text_color=5c3d5e&ring_color=f8b4c8" alt="Laureen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NDANUKL&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues&bg_color=fff0f6&title_color=c06fab&icon_color=e991c4&text_color=5c3d5e" alt="Laureen's GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDANUKL&layout=compact&hide_border=true&bg_color=fff0f6&title_color=c06fab&text_color=5c3d5e" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDANUKL&hide_border=true&background=fff0f6&ring=c06fab&fire=e991c4&currStreakLabel=c06fab&sideLabels=5c3d5e&sideNums=5c3d5e&dates=9c6fa8" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
